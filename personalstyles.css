@@ -1,14 +1,9 @@
+.side{
+    width:150px;
+    height:150px;
+    background-color: yellow;
+    margin:0 auto;
+}
 aside{
-    
-}
-aside > article{
-
-}
-
-main{
-
-}
-
-main > article{
-
+    width:200px;
 }
