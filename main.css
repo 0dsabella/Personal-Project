@@ -1,0 +1,46 @@
+body{
+    margin: 0;
+}
+header{
+    height: 200px;
+    width: 100%;
+    background-color: aqua;
+}
+
+section{
+    height: 800px;
+    width: 100%;
+}
+
+section > aside{
+    width: 30%;
+    height: 200px;
+    float: left;
+    background-color: blueviolet;
+    margin-top: 3px;
+}
+
+section > main{
+    width: 70%;
+    height: 200px;
+    float: left;
+    background-color: brown;
+    margin-top: 3px;
+}
+
+
+.left_nav {
+    
+}
+
+.title{
+
+}
+.letter{
+
+}
+
+.featured{
+
+
+}
