@@ -16,7 +16,6 @@ section > aside{
     width: 30%;
     height: 200px;
     float: left;
-    background-color: blueviolet;
     margin-top: 3px;
 }
 
@@ -29,10 +28,24 @@ section > main{
 }
 
 
-.left_nav {
-    
+.s{
+    background-color: indianred;
 }
-
+.c{
+    background-color: coral;
+}
+.b{
+    background-color: sandybrown;
+}
+.a{
+    background-color: salmon;
+}
+.d{
+    background-color: rgb(224, 161, 161);
+}
+.e{
+    background-color: burlywood;
+}
 .title{
 
 }
