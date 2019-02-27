@@ -5,6 +5,9 @@ header{
     height: 200px;
     width: 100%;
     background-color: aqua;
+    font-size: 100px;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace
 }
 
 section{
@@ -17,6 +20,8 @@ section > aside{
     height: 200px;
     float: left;
     margin-top: 3px;
+    font-size: 100px;
+    text-align: center;
 }
 
 section > main{
@@ -27,23 +32,25 @@ section > main{
     margin-top: 3px;
 }
 
-
-.s{
+.menu{
+    
+}
+#s{
     background-color: indianred;
 }
-.c{
+#c{
     background-color: coral;
 }
-.b{
+#b{
     background-color: sandybrown;
 }
-.a{
+#a{
     background-color: salmon;
 }
-.d{
+#d{
     background-color: rgb(224, 161, 161);
 }
-.e{
+#e{
     background-color: burlywood;
 }
 .title{
