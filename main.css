@@ -7,7 +7,7 @@ header{
     background-color: aqua;
     font-size: 100px;
     text-align: center;
-    font-family: 'Courier New', Courier, monospace
+    font-family: 'Courier New', Courier, monospace;
 }
 
 section{
@@ -32,8 +32,17 @@ section > main{
     margin-top: 3px;
 }
 
-.menu{
-    
+#mainfiller{
+    font-size: 20px;
+    text-align: center;
+    margin-top: 45px;
+    padding: 10px;
+}
+
+
+.imagesize{
+    height: 100px;
+    width: 100px;
 }
 #s{
     background-color: indianred;
